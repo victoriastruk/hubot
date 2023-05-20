@@ -1,3 +1,4 @@
+//es2015.js
 'use strict'
 
 const User = require('./src/user')
